@@ -12,6 +12,14 @@ export class MovieService {
     this.seed()
   }
 
+  create(): void {
+    // TODO
+  }
+
+  delete(): void {
+    // TODO
+  }
+
   seed(): void {
     let m: Movie = new Movie()
     m.title = "Interstellar"

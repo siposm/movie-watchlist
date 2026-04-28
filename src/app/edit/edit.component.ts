@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrl: './edit.component.css'
 })
 export class EditComponent {
-
+// TODO: logika megírása
 }
